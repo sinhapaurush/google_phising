@@ -11,4 +11,4 @@
 - Send link to your device
 - Get your credential in you Firebase Database
 
-> This project is created intend in mind that, for knowledge of Phishing, I am not responsible for Missuing this file,(Only for Students who are Learning Phishing).
+> This project is created intend in mind that, for knowledge of Phishing, I am not responsible for Missuing this file,(Only for Students who are Learning Phishing and **ETHICAL HACKING**).
